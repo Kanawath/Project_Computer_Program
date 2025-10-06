@@ -1,0 +1,17 @@
+Library Borrow System – Book Summary Report
+Generated At : 2025-10-03 22:41 (+07:00)
+
+BookID | Title                          | Author               | Year  | Copies  | Borrowed  | Status
+-----------------------------------------------------------------------------------------------
+2001   | compro                         | josh                 | 2021  | 10      | 1         | Active
+2002   | python programing              | fox                  | 2020  | 5       | 1         | Active
+2003   | Network Basic                  | jane                 | 2019  | 5       | 1         | Active
+2004   | Eng1                           | Dosh                 | 2020  | 1       | 1         | Active
+2005   | Thai1                          | somchai              | 2019  | 5       | 1         | Active
+
+
+Summary (Active Books Only)
+- Total Book Titles : 5
+- Total Copies      : 26
+- Borrowed Now      : 5
+- Available Now     : 21
